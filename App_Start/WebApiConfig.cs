@@ -6,8 +6,8 @@ using System.Linq;
 using System.Web.Http;
 
 namespace SimpleEchoBot
+public static class WebApiConfig
 {
-    public static class WebApiConfig
     {
         public static void Register(HttpConfiguration config)
         {
